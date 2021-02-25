@@ -24,3 +24,42 @@ table {
             padding: 10px;
             text-align: center;
 }
+
+footer {
+text-align: center;
+}
+
+.pinkSquare{
+  height: 50px;
+  width: 50px;
+  background-color: #ff69b4;
+  display: inline-block;
+}
+
+.purpleSquare{
+  height: 50px;
+  width: 50px;
+  background-color: #800080;
+  display: inline-block;
+}
+
+.redSquare {
+  height: 50px;
+  width: 50px;
+  background-color: #ff0000;
+  display: inline-block;
+}
+
+.mintSquare{
+  height: 50px;
+  width: 50px;
+  background-color: #3eb489;
+  display: inline-block;
+}
+
+.blueSquare{
+  height: 50px;
+  width: 50px;
+  background-color: #0000ff;
+  display: inline-block;
+}
